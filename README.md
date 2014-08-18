@@ -1,0 +1,1 @@
+Notes in order to prepare OCEJPA exam
