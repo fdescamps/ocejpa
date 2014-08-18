@@ -9,4 +9,5 @@ https://github.com/fdescamps/ocejpa
 	git add .
 	git commit -a -m 'first commit...'
 	git remote add origin 'https://github.com/fdescamps/ocejpa.git
+    vi ~/.gitconfig
 	git push -u origin master
